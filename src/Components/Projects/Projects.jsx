@@ -122,11 +122,11 @@ const Projects = props => {
             <p>A real estate app that displays properties using and API and with many more capabilities.</p>
           </Project>
           <Project
-            title="Travel Advisor."
+            title="Travel Advisor. Coming soon"
             img={Weather}
             tech="js react css"
-            link="https://codepen.io/yagoestevez/full/ERVONM/"
-            repo="https://github.com/yagoestevez/the-calcoolator"
+            link=""
+            repo=""
           >
             <small>Built using React and CSS.</small>
             <p>A project on which I built a virtual calculator with its usual features.</p>
