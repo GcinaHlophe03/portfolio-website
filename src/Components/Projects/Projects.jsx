@@ -115,7 +115,7 @@ const Projects = props => {
             title="Real Estate App."
             img={Realtor}
             tech="js nextjs css"
-            link="https://codepen.io/yagoestevez/full/bxgEyd/"
+            link=""
             repo="https://github.com/GcinaHlophe/real-estate-app"
           >
             <small>NextJS Real Estate App using Chakra UI and Rapid API</small>
